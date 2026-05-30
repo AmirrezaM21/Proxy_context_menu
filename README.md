@@ -1,5 +1,5 @@
 # Proxy_context_menu
-Adds a cascading menu option on your desktop context-menu to switch windows proxy settings.
+Adds a cascading menu option on your desktop context-menu to switch windows' proxy settings.
 
 Setup:
 1. Download the files and extract them to your desired location. It's set to D:\Scripts\Proxy_context_menu by default, but you can edit it in install_proxy_cascading_menu.bat under ":: Paths" section.
